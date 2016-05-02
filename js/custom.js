@@ -105,6 +105,15 @@ $(document).ready(function() {
     });
   });
 
+    /* Owl Carousel2
+    -----------------------------------------------*/
+  $(document).ready(function() {
+    $("#owl2-testimonial").owlCarousel({
+      autoPlay: 8000,
+      singleItem: true,
+    });
+  });
+
 
   /* Parallax section
     -----------------------------------------------*/
