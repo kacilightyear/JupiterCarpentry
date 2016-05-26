@@ -96,16 +96,17 @@ $(document).ready(function() {
   })
 
 
-  /* Owl Carousel
+  /* Owl Carousel Office
     -----------------------------------------------*/
   $(document).ready(function() {
     $("#owl-testimonial").owlCarousel({
       autoPlay: 8000,
       singleItem: true,
+
     });
   });
 
-    /* Owl Carousel2
+    /* Owl Carousel2 Dinning room table
     -----------------------------------------------*/
   $(document).ready(function() {
     $("#owl2-testimonial").owlCarousel({
@@ -113,6 +114,16 @@ $(document).ready(function() {
       singleItem: true,
     });
   });
+
+      /* Owl Carousel3 End Table
+    -----------------------------------------------*/
+  $(document).ready(function() {
+    $("#owl3-testimonial").owlCarousel({
+      autoPlay: 8000,
+      singleItem: true,
+    });
+  });
+
 
 
   /* Parallax section

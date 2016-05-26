@@ -45,7 +45,7 @@ h2 {
 }
 
 h3 {
-  color: #ffa400;
+  color: #663300;
   font-size: 16px;
   letter-spacing: 26px;
   letter-spacing: 2px;
@@ -207,7 +207,7 @@ p {
 }
 
 #about .about-des h3 {
-	font-size: 26px;
+	font-size: 36px;
 }
 
 #about .about-des h4 {
@@ -281,8 +281,9 @@ p {
 /* contact section styles
 /* ========================================== */
 #contact {
-  background: url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
-  -webkit-background-size: cover;
+  background: url('../images/blog-img-5.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: conver;
+  /*background-size: cover;*/
   background-size: cover;
   background-position: center;
 }
@@ -329,7 +330,7 @@ p {
   padding: 34px 10px 34px 60px;
 }
 
-#contact .contact-detail h2 {
+#contact .contact-detail  {
   padding-bottom: 28px;
 }
 
