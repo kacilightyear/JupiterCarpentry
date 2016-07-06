@@ -124,6 +124,16 @@ $(document).ready(function() {
     });
   });
 
+       /* Owl Carousel3 Craft Table
+    -----------------------------------------------*/
+  $(document).ready(function() {
+    $("#owl4-testimonial").owlCarousel({
+      autoPlay: 8000,
+      singleItem: true,
+    });
+  });
+
+
 
 
   /* Parallax section
